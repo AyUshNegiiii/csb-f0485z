@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "https://ayushnegiiii.github.io/csb-f0485z/static/js/main.e38baa59.chunk.js",
-    "main.js.map": "https://ayushnegiiii.github.io/csb-f0485z/static/js/main.e38baa59.chunk.js.map",
+    "main.js": "https://ayushnegiiii.github.io/csb-f0485z/static/js/main.122b0b96.chunk.js",
+    "main.js.map": "https://ayushnegiiii.github.io/csb-f0485z/static/js/main.122b0b96.chunk.js.map",
     "runtime-main.js": "https://ayushnegiiii.github.io/csb-f0485z/static/js/runtime-main.a8f0a3cb.js",
     "runtime-main.js.map": "https://ayushnegiiii.github.io/csb-f0485z/static/js/runtime-main.a8f0a3cb.js.map",
     "static/js/2.306c8396.chunk.js": "https://ayushnegiiii.github.io/csb-f0485z/static/js/2.306c8396.chunk.js",
     "static/js/2.306c8396.chunk.js.map": "https://ayushnegiiii.github.io/csb-f0485z/static/js/2.306c8396.chunk.js.map",
     "index.html": "https://ayushnegiiii.github.io/csb-f0485z/index.html",
-    "precache-manifest.9ee736113fbaea9d21c705b88c3138b0.js": "https://ayushnegiiii.github.io/csb-f0485z/precache-manifest.9ee736113fbaea9d21c705b88c3138b0.js",
+    "precache-manifest.3044ce6584a11f4ed708c09d0dc49050.js": "https://ayushnegiiii.github.io/csb-f0485z/precache-manifest.3044ce6584a11f4ed708c09d0dc49050.js",
     "service-worker.js": "https://ayushnegiiii.github.io/csb-f0485z/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.a8f0a3cb.js",
     "static/js/2.306c8396.chunk.js",
-    "static/js/main.e38baa59.chunk.js"
+    "static/js/main.122b0b96.chunk.js"
   ]
 }
